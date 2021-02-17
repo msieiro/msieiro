@@ -1,10 +1,6 @@
-# Full-Stack Developer
-
 ## 🌍 &nbsp;Spain - A Coruña
 
-### Hi there 👋, welcome to my repository, my name is **Martín Sieiro Gutiérrez** and I am a web developer.
-
-<br/>
+### Hi there 👋, welcome, my name is **Martín Sieiro Gutiérrez** and I am a web developer.
 
 ## 👨🏽‍💻 &nbsp;Developer skills
 
@@ -18,7 +14,6 @@
 
 ### - TeamWork.
 
-<br/>
 
 ## 🤸🏽 &nbsp;Soft skills
 
@@ -78,6 +73,6 @@
 
 ## 📢 &nbsp;How to reach me:
 
-[<img align="left" alt="linkedin-martin-sieiro" height="30px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="linkedin-martin-sieiro" height="40px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/mart%C3%ADn-sieiro-guti%C3%A9rrez-7797a3184/
