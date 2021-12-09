@@ -4,8 +4,6 @@
 
 🌱 I’m currently learning **Bash, Powershell, Docker, Cypress, Typescript**
 
-👯 I’m looking to collaborate on [vimeo-downloader-compressor](https://github.com/msieiro/vimeo-downloader-compressor)
-
 🤝 I’m looking for help with [vimeo-downloader-compressor](https://github.com/msieiro/vimeo-downloader-compressor)
 
 👨‍💻 My roadmap are available at [https://msieiro-roadmap.vercel.app/](https://msieiro-roadmap.vercel.app/)
