@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Martín</h1>
 
-🔭 I’m currently working on [vimeo-downloader-compressor](https://github.com/msieiro/vimeo-downloader-compressor)
+👨‍💻 I’m currently working on [vimeo-downloader-compressor](https://github.com/msieiro/vimeo-downloader-compressor)
 
 🌱 I’m currently learning **Bash, Powershell, Docker, Cypress, Typescript**
 
 🤝 I’m looking for help with [vimeo-downloader-compressor](https://github.com/msieiro/vimeo-downloader-compressor)
 
-👨‍💻 My roadmap are available at [https://msieiro-roadmap.vercel.app/](https://msieiro-roadmap.vercel.app/)
+🚗 My roadmap are available at [https://msieiro-roadmap.vercel.app/](https://msieiro-roadmap.vercel.app/)
 
 ⚡ Fun fact **I'm a bit serious**
 
