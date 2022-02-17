@@ -21,8 +21,5 @@
 </p>
 <p align="right">
 
-<h3  align="right">☕ Support</h3>
-
-<p align="right"><a href="https://www.buymeacoffee.com/martinsieiro"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="martinsieiro" /></a></p><br><br>
 </p>
 </p>
