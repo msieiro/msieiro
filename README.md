@@ -7,7 +7,7 @@
 ⚡ Fun fact **I'm a bit serious**
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=msieiro&show_icons=true&locale=en&layout=compact&theme=panda" alt="msieiro" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=msieiro&show_icons=true&locale=en&layout=compact" alt="msieiro" />
 </p>
 <p align="center">
 <p  align="left">
