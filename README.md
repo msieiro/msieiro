@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martín</h1>
 
-🌱 I’m currently learning **Bash, Powershell, Docker, Cypress, Typescript**
+🌱 I’m currently learning **Solidity and Web3 integrations**
 
 🚗 My roadmap are available at [https://msieiro-roadmap.vercel.app/](https://msieiro-roadmap.vercel.app/)
 
