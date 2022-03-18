@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning **Solidity and Web3 integrations**
 
-🚗 My roadmap are available at [https://msieiro-roadmap.vercel.app/](https://msieiro-roadmap.vercel.app/)
+🚗 My roadmap are available at [https://martinsieiro.com/](https://martinsieiro.com/)
 
 ⚡ Fun fact **I'm a bit serious**
 
