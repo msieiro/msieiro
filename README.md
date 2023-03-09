@@ -17,9 +17,8 @@
 [<img align="left" alt="linkedin-martin-sieiro" height="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/martinsieirogutierrez/
-
 </p>
-<p align="right">
-![profile views](https://rushter.com/counter.svg)
-</p>
+  <p align="right">
+    ![Views](https://rushter.com/counter.svg)
+  </p>
 </p>
