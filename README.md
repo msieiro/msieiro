@@ -19,6 +19,6 @@
 [linkedin]: https://www.linkedin.com/in/martinsieirogutierrez/
 </p>
   <p align="right">
-    ![Views](https://rushter.com/counter.svg)
+    <img src="https://komarev.com/ghpvc/?username=msieiro&label=Profile%20views&color=0e75b6&style=flat" alt="msieiro" />
   </p>
 </p>
