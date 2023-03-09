@@ -20,6 +20,6 @@
 
 </p>
 <p align="right">
-
+![profile views](https://rushter.com/counter.svg)
 </p>
 </p>
